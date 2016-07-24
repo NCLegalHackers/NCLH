@@ -13,7 +13,7 @@ After scores of Internet users opposed the passage of SOPA and PIPA through voca
 
 This question got us thinking about the nature of lawmaking as we know it.  Rather than litigating or crafting legislation, we thought, can we create technologies that solves legal issues?  Are there collaborative mechanisms and discussions that can produce real, tangible solutions?  We quickly found support in New York City’s thriving entrepreneurial community, and we ran with it.  In April of 2012, with the support of Brooklyn Law’s Incubator & Policy Clinic and several generous sponsors, we proved that the community was ready to hack law.
 
-## What We Do
+## What We Do 
 
 The moniker “Legal Hackers” finds its origins in New York City.  But ever since the New York Meetup’s founding in August of 2012, there has been an explosion of Legal Hackers groups around the U.S. and, increasingly, around the world. Take a look at our Chapters page to see if there’s a group near you.  These groups meet to discuss important issues, hold hackathons, network, and collaborate.  Our community is a thriving global support network with room to grow.  Join us!
 
