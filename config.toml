@@ -41,21 +41,21 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
+	github  = "NCLegalHackers"
 
 
 [[menu.main]]
-	name   = "Material"
+	name   = "Home"
 	url    = "/"
 	weight = 0
 
 [[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "About Legal Hackers"
+	url    = "about/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
+	name   = "North Carolina"
 	url    = "adding-content/"
 	weight = 20
 
