@@ -56,18 +56,13 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "North Carolina"
-	url    = "adding-content/"
+	url    = "nc/"
 	weight = 20
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
+	name   = "Events"
+	url    = "events/"
 	weight = 30
-
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
 
 
 [blackfriday]
