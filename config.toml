@@ -64,7 +64,16 @@ googleAnalytics = ""
 	url    = "events/"
 	weight = 30
 
-
+[[menu.main]]
+  name = "Join Us"
+  url  = "join/"
+  weight = 40
+  
+[[menu.main]]
+  name = "Contact"
+  url  = "contact/"
+  weight = 50
+   
 [blackfriday]
 	smartypants	= true
 	fractions = true
